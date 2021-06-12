@@ -1,8 +1,8 @@
 {
-  "name": "y",
-  "version": "y",
-  "description": "server ",
-  "main": "index.js",
+  "name": "express_training",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
   "license": "MIT",
   "dependencies": {
     "express": "4.17.1"
